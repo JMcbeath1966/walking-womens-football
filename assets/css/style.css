@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Oswald:wght@200;300;400;600&display=swap');
+
+/*  #1C77C3 French Blue (darkest blue) – Headings
+    #494E4F Davys Grey - Text
+    #E8E8E8 Hex Gray 91 - Alternate text color where needed
+    #1C77C3 Cerulean Crayola (lighter blue) 
+    #D63230 Permanent Geranium Lake (red)- Background for forms page
+    #F39237 Deep Saffron (amber) – Buttons  
+    #40BCD8 Maximum Blue – Reserve color
+*/
+
+
+body {
+    background-color: 100%;
+    margin: 0;
+    padding: 0; 
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    color: #494E4F; 
+}
+h1 {
+    color: #1C77C3;
+    padding-top: 25px;
+}
+
+nav {
+    float: right;
+    margin: 20px;
+    color: #1C77C3; 
+}
+
+
+
+h2 { 
+    position: absolute; 
+    top: 100px; 
+    z-index: 1; 
+    }
+
+h3 {
+    
+    position: absolute;
+        top: 80px;
+        right: 10px;
+}
+
+img {
+    height: 600px;
+}
+
+#shoutout {
+    text-align: center;
+    padding: 0.5em;
+}
+
+#groups {
+    text-align: center;
+}
+/*
+section {
+    background-image: url(/images/bgimage.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    opacity: 0.2;
+}
+*/
+
+.benefits {
+    height: 300px;
+    width: 300px;
+    padding: 0.5em;
+}
+
+
+
+h4 {
+    display: flex; 
+    justify-content: center;
+    padding: 0.5em;
+}
+
+p {
+    display: flex; 
+    justify-content: center;
+}
+
+.sessions {
+    background-color: #E8E8E8;
+    Height: 300px;
+    margin-top: 3.5rem;
+}
+
+footer{
+    height: 150px;
+}
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks li {
+    display:inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
+}
