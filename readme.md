@@ -1,10 +1,10 @@
 # 40+ Ladies Walking Football
 
-<!--- Iive project link to be added here --->
+https://jmcbeath1966.github.io/walking-womens-football/
 
 ## Project Overview
 
-This will be the site for a newly opened, purpose built, 40+ Ladies Walking Football facility in an area of Kent, England. The facility is called Upchurch Hub
+This will be the site for a newly opened, purpose built, 40+ Ladies Walking Football facility in an area of Kent, England. The facility is called Upchurch Hub.
 
 The website site is desinged to be accessed and respsonsive to make it simple for potential players to access information and to learn about the game, the facility and benefits of walking football. 
 
