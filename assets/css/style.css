@@ -1,7 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Oswald:wght@200;300;400;600&display=swap');
 
-/*  #1C77C3 French Blue (darkest blue) – Headings
+/*  #1C77C3 French Blue (darkest blue) 
+    #F5F5F5 – Headings & Backgrounds (e.g.Nav)
     #494E4F Davys Grey - Text
     #E8E8E8 Hex Gray 91 - Alternate text color where needed
     #1C77C3 Cerulean Crayola (lighter blue) 
@@ -10,103 +11,91 @@
     #40BCD8 Maximum Blue – Reserve color
 */
 
-
 body {
-    background-color: 100%;
+    background-color: #F5F5F5;
+    border: 0;
     margin: 0;
     padding: 0; 
     font-family: 'Lato', sans-serif;
     font-family: 'Oswald', sans-serif;
     color: #494E4F; 
 }
+.navbar-brand{
+    padding-left: 40px;
+    font-size: 30px;
+    color:#1C77C3;
+}
+#navbarNav {
+    padding-right: 50px;
+    font-size: 25px;
+}
+.fas {
+    color:#1C77C3;
+}
 h1 {
-    color: #1C77C3;
-    padding-top: 25px;
+    color:#1C77C3;
+    margin-top: 1.5rem;
 }
-
-nav {
-    float: right;
-    margin: 20px;
-    color: #1C77C3; 
-}
-
-
-
 h2 { 
     position: absolute; 
     top: 100px; 
     z-index: 1; 
     }
-
-h3 {
-    
-    position: absolute;
-        top: 80px;
-        right: 10px;
-}
-
 img {
-    height: 600px;
+    max-height: 40em;
 }
-
-#shoutout {
-    text-align: center;
-    padding: 0.5em;
-}
-
 #groups {
     text-align: center;
 }
-/*
-section {
-    background-image: url(/images/bgimage.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 300px;
-    opacity: 0.2;
-}
-*/
-
 .benefits {
-    height: 300px;
-    width: 300px;
+    display: inline-block;
+    max-height: 20rem;
+    max-width: 25rem;
     padding: 0.5em;
+    border: solid 1px red;
 }
-
-
-
+.callout {
+    border: 0;
+    margin-bottom: 3em;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px red;
+}
 h4 {
     display: flex; 
     justify-content: center;
     padding: 0.5em;
 }
-
 p {
     display: flex; 
     justify-content: center;
 }
-
 .sessions {
-    background-color: #E8E8E8;
-    Height: 300px;
-    margin-top: 3.5rem;
+    display: inline-block;
+    flex-direction: row;
+    min-height: 10rem;
+    max-width: 15rem;
+    margin: 1rem;
+    padding: 0.5rem;
+    border: solid 1px red;
 }
-
-footer{
-    height: 150px;
-}
-
 .social-networks{
     text-align: center;
 }
-
 .social-networks li {
     display:inline;
 }
-
 .social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
     color: #777777;
+}
+footer { 
+    display: inline-block;
+    flex-direction: row;
+    width: 100%;
+    max-height: 33vh;
+    
 }
