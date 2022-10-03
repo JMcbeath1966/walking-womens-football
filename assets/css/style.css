@@ -1,7 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Oswald:wght@200;300;400;600&display=swap');
 
-/*  #1C77C3 French Blue (darkest blue) 
+/*  #1C77C3 French Blue 
+    #0000ff -Blue - gradients and background boxe
     #F5F5F5 – Headings & Backgrounds (e.g.Nav)
     #494E4F Davys Grey - Text
     #E8E8E8 Hex Gray 91 - Alternate text color where needed
@@ -19,12 +20,16 @@ body {
     font-family: 'Lato', sans-serif;
     font-family: 'Oswald', sans-serif;
     color: #494E4F; 
+    border: solid 1px red;
 }
 .navbar-brand{
-    padding-left: 40px;
-    font-size: 30px;
+    padding-left: 30px;
+    font-size: 40px;
     color:#1C77C3;
 }
+.navbar-expand-custom .navbar-toggler {
+    display: none;
+}   
 #navbarNav {
     padding-right: 50px;
     font-size: 25px;
@@ -36,11 +41,6 @@ h1 {
     color:#1C77C3;
     margin-top: 1.5rem;
 }
-h2 { 
-    position: absolute; 
-    top: 100px; 
-    z-index: 1; 
-    }
 img {
     max-height: 40em;
 }
@@ -103,5 +103,26 @@ footer {
     flex-direction: row;
     width: 100%;
     max-height: 33vh;
-    
+}
+/* form */
+.form-section {
+    background-image: url(/images/ball-image-background.jpeg);
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border: solid 1px red;
+}
+form {
+    margin-top: 150px;
+    color: #F5F5F5;
+    background-color: rgba(0, 0, 255, 0.4);
+    height: 500px;
+    max-width: 500px;
+    position: absolute;
+    right: 10%;
+    padding: 30px;
+    border: soid 1px red;
+    border-radius: 10%;   
 }
