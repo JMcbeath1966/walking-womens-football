@@ -53,15 +53,6 @@ img {
 #groups {
     text-align: center;
 }
-
-.benefits {
-    display: inline-block;
-    max-height: 40rem;
-    max-width: 25rem;
-    padding: 0.5em;
-    border: solid 1px red;
-}
-
 .callout {
     border: 0;
     margin-bottom: 3em;
@@ -78,44 +69,38 @@ button {
     font-weight: bold;
 }
 
+.benefits {
+    display: inline-block;
+    flex-direction: row;
+   
+}
 h4 {
     display: flex;
     justify-content: center;
     padding: 0.5em;
 }
-
 .sessions {
     display: inline-block;
     flex-direction: row;
-    min-height: 10rem;
-    max-width: 15rem;
-    margin: 1rem;
-    padding: 0.5rem;
-    border: solid 1px red;
 }
-
 .social-networks {
     text-align: center;
 }
-
 .social-networks li {
     display: inline;
 }
-
 .social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
     color: #777777;
 }
-
 footer {
     display: inline-block;
     flex-direction: row;
     width: 100%;
     max-height: 33vh;
 }
-
 /* form */
 .form-section {
     background-image: url(/images/ball-image-background.jpeg);
@@ -126,7 +111,6 @@ footer {
     position: relative;
     border: solid 1px red;
 }
-
 .signup-form {
     margin-top: 150px;
 
@@ -141,11 +125,9 @@ footer {
     border-radius: 10%;
     box-shadow: 5px 5px 5px 5px white;
 }
-
 h2 {
     margin-bottom: 25px;
 }
-
 .text-input {
     background: #F5F5F5;
     width: 100%;
@@ -154,8 +136,7 @@ h2 {
     border: 1px solid #fafafa;
     padding: 1em;
 }
-
-/*playing.html rules section*/
+*playing.html rules section*/
 #fixtures,
 #playing {
     min-height: 700px;
@@ -164,17 +145,14 @@ h2 {
     color: #F5F5F5;
     font-size: 1.25em;
 }
-
 .rules-link {
     background-color: #F39237;
     color: #F5F5F5;
 }
-
 p,
 .considerations {
     justify-content: left;
 }
-
 
 /* tablet devices */
 @media only screen and (max-width: 992px) {
@@ -203,8 +181,6 @@ p,
         position: unset;
     }
 }
-
-
 /* mobile devices - large*/
 @media only screen and (max-width: 768px) {
     .signup-form{
