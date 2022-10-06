@@ -19,28 +19,89 @@ body {
     font-family: 'Lato', sans-serif;
     font-family: 'Oswald', sans-serif;
     color: #494E4F;
-    border: solid 1px red;
 }
-
+/* Home Page - Nav*/ 
 .navbar-brand {
-    padding-left: 30px;
-    font-size: 40px;
+    font-size: 2em;
+}
+.navbar {
     color: #1C77C3;
+    border: solid 2px red;
 }
 
-.navbar-expand-custom .navbar-toggler {
+#nav-link-color {
+    color:#1C77C3 !important;
+}
+
+#icon-color {
+    color:#1C77C3 !important;
+}
+/*ul {
+  
+}*/
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.hamburger {
     display: none;
 }
-
-#navbarNav {
-    padding-right: 50px;
-    font-size: 25px;
+.bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: #1C77C3;
 }
-
-.fas {
+.nav-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-item {
+    margin-left: 5rem;
+}
+.nav-link{
+    font-size: 1rem;
+    font-weight: 400;
     color: #1C77C3;
 }
+.nav-link:hover{
+    color: #F39237;
+}
+@media only screen and (max-width: 768px) {
+    .navbar-nav {
+        position: fixed;
+        left: -100%;
+        top: 5rem;
+        flex-direction: column;
+        background-color: #f5f5f5;
+        width: 100%;
+        border-radius: 10px;
+        text-align: center;
+        transition: 0.3s;
+        box-shadow:
+            0 10px 27px rgba(0, 0, 0, 0.05);
+    }
 
+    .navbar-nav.active {
+        left: 0;
+    }
+
+    .nav-item {
+        margin: 1rem 0;
+    }
+
+    .hamburger {
+        display: block;
+        cursor: pointer;
+    }
+}
+/* Home Page - Img*/
 h1 {
     color: #1C77C3;
     margin-top: 1.5rem;
@@ -49,30 +110,30 @@ h1 {
 img {
     max-height: 40em;
 }
+/* Home Page - Benefits*/
 
 #groups {
     text-align: center;
 }
 .callout {
-    border: 0;
+    padding: 2em;
     margin-bottom: 3em;
     width: 100%;
     justify-content: center;
     align-items: center;
     background-image: linear-gradient(90deg, blue, #1C77C3, white, white, white, white, #1C77C3, blue);
-    border: solid 1px red;
 }
-
 button {
     margin: 1em;
     padding: 1em;
     font-weight: bold;
 }
+/* Home Page - benefits*/
 
 .benefits {
     display: inline-block;
     flex-direction: row;
-   
+    padding: 1em; 
 }
 h4 {
     display: flex;
@@ -101,7 +162,9 @@ footer {
     width: 100%;
     max-height: 33vh;
 }
-/* form */
+
+
+/* Sign Up form */
 .form-section {
     background-image: url(/images/ball-image-background.jpeg);
     height: 700px;
@@ -109,11 +172,9 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    border: solid 1px red;
 }
 .signup-form {
     margin-top: 150px;
-
     color: #F5F5F5;
     background-color: rgba(28, 119, 195, 0.8);
     height: 500px;
@@ -121,7 +182,6 @@ footer {
     position: absolute;
     right: 14%;
     padding: 30px;
-    border: soid 1px red;
     border-radius: 10%;
     box-shadow: 5px 5px 5px 5px white;
 }
@@ -136,7 +196,7 @@ h2 {
     border: 1px solid #fafafa;
     padding: 1em;
 }
-*playing.html rules section*/
+/*playing.html rules section*/
 #fixtures,
 #playing {
     min-height: 700px;
@@ -159,17 +219,12 @@ p,
     #fixtures {
         flex-direction: column;
     }
-
     #fixtures>* {
         margin: 20px auto;
-
-
     }
-
     .col-6 {
         max-width: 70%;
     }
-
     .form-section {
         justify-content: center;
         display: flex;
