@@ -18,6 +18,7 @@ body {
     padding: 0;
     font-family: 'Lato', sans-serif;
     font-family: 'Oswald', sans-serif;
+    font-weight: 300;
     color: #494E4F;
 }
 /* Home Page - Nav*/ 
@@ -26,15 +27,14 @@ body {
 }
 .navbar {
     color: #1C77C3;
-    border: solid 2px red;
+    
 }
-
 #nav-link-color {
     color:#1C77C3 !important;
 }
 
-#icon-color {
-    color:#1C77C3 !important;
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(28, 119, 195, 0.9)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 /*ul {
   
