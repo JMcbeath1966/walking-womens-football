@@ -23,14 +23,16 @@ body {
 }
 /* Home Page - Nav*/ 
 .navbar-brand {
-    font-size: 2em;
+    font-size: 1.25em;
 }
 .navbar {
     color: #1C77C3;
+    font-size: 1.5em;
     
 }
 #nav-link-color {
     color:#1C77C3 !important;
+    font-size: 1.25rem;
 }
 
 .navbar-light .navbar-toggler-icon {
@@ -67,7 +69,6 @@ a {
 }
 .nav-link{
     font-size: 1rem;
-    font-weight: 400;
     color: #1C77C3;
 }
 .nav-link:hover{
@@ -85,7 +86,7 @@ a {
         text-align: center;
         transition: 0.3s;
         box-shadow:
-            0 10px 27px rgba(0, 0, 0, 0.05);
+        0 10px 27px rgba(0, 0, 0, 0.05);
     }
 
     .navbar-nav.active {
@@ -133,7 +134,8 @@ button {
 .benefits {
     display: inline-block;
     flex-direction: row;
-    padding: 1em; 
+    padding: 1em;
+    font-size: 1.4rem; 
 }
 h4 {
     display: flex;
