@@ -23,7 +23,7 @@ body {
 }
 /* Home Page - Nav*/ 
 .navbar-brand {
-    font-size: 1.25em;
+    font-size: 2em;
 }
 .navbar {
     color: #1C77C3;
@@ -164,8 +164,6 @@ footer {
     width: 100%;
     max-height: 33vh;
 }
-
-
 /* Sign Up form */
 .form-section {
     background-image: url(/images/ball-image-background.jpeg);
@@ -199,7 +197,6 @@ h2 {
     padding: 1em;
 }
 /*playing.html rules section*/
-#fixtures,
 #playing {
     min-height: 700px;
     width: 100%;
@@ -215,8 +212,21 @@ p,
 .considerations {
     justify-content: left;
 }
+/* fixtures pagfe*/
+
+#fixtures {
+    min-height: 700px;
+    width: 100%;
+    background-color: #1C77C3;
+    color: #F5F5F5;
+    font-size: 1.25em; 
+}
+.table-head {
+    margin-top: 1.77em;
+}
 
 /* tablet devices */
+
 @media only screen and (max-width: 992px) {
     #fixtures {
         flex-direction: column;
