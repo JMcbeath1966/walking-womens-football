@@ -41,7 +41,7 @@ body {
 /*ul {
   
 }*/
-li {
+.nav-item {
     list-style: none;
 }
 a {
@@ -205,7 +205,7 @@ h2 {
     font-size: 1.25em;
 }
 .rules-link {
-    background-color: #F39237;
+    background-color: #F39237; 
     color: #F5F5F5;
 }
 p,
@@ -221,8 +221,14 @@ p,
     color: #F5F5F5;
     font-size: 1.25em; 
 }
+form {
+    margin-top: 1.77em;
+}
 .table-head {
     margin-top: 1.77em;
+}
+tr, td {
+    text-align: center;
 }
 
 /* tablet devices */
