@@ -212,6 +212,10 @@ p,
 .considerations {
     justify-content: left;
 }
+.rules-link {
+    padding: 0.5em; 
+    border-radius: 1.2em;
+}
 /* fixtures pagfe*/
 
 #fixtures {
