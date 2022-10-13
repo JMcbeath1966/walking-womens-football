@@ -195,6 +195,7 @@ h2 {
     font-size: 1.25em;
 }
 .rules-link {
+    display: inline-block;
     background-color: #F39237; 
     color: #F5F5F5;
 }
