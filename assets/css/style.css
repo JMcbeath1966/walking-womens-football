@@ -1,16 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Oswald:wght@200;300;400;600&display=swap');
-
-/*  #1C77C3 French Blue 
-    #0000ff -Blue - gradients and background boxe
-    #F5F5F5 – Headings & Backgrounds (e.g.Nav)
-    #494E4F Davys Grey - Text
-    #E8E8E8 Hex Gray 91 - Alternate text color where needed
-    #1C77C3 Cerulean Crayola (lighter blue) 
-    #D63230 Permanent Geranium Lake (red)- Background for forms page
-    #F39237 Deep Saffron (amber) – Buttons  
-    #40BCD8 Maximum Blue – Reserve color
-*/
-
 body {
     background-color: #F5F5F5;
     border: 0;
@@ -23,24 +11,24 @@ body {
 }
 /* Home Page - Nav*/ 
 .navbar-brand {
+    font-size: 1.0em;
+}
+@media only screen and (min-width: 460px) {
+.navbar-brand {
     font-size: 2em;
+    }
 }
 .navbar {
     color: #1C77C3;
-    font-size: 1.5em;
-    
+    font-size: 1.5em;    
 }
 #nav-link-color {
     color:#1C77C3 !important;
     font-size: 1.25rem;
 }
-
 .navbar-light .navbar-toggler-icon {
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(28, 119, 195, 0.9)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
-/*ul {
-  
-}*/
 .nav-item {
     list-style: none;
 }
@@ -59,17 +47,8 @@ a {
     transition: all 0.3s ease-in-out;
     background-color: #1C77C3;
 }
-.nav-menu {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
 .nav-item {
     margin-left: 5rem;
-}
-.nav-link{
-    font-size: 1rem;
-    color: #1C77C3;
 }
 .nav-link:hover{
     color: #F39237;
@@ -88,15 +67,12 @@ a {
         box-shadow:
         0 10px 27px rgba(0, 0, 0, 0.05);
     }
-
     .navbar-nav.active {
         left: 0;
     }
-
     .nav-item {
         margin: 1rem 0;
     }
-
     .hamburger {
         display: block;
         cursor: pointer;
@@ -196,6 +172,14 @@ h2 {
     border: 1px solid #fafafa;
     padding: 1em;
 }
+
+/* mobile devices - large*/
+@media only screen and (max-width: 768px) {
+    .signup-form{
+        max-width: 350px;
+    }
+}
+
 /*playing.html rules section*/
 #playing {
     min-height: 700px;
@@ -245,7 +229,7 @@ tr, td {
         margin: 20px auto;
     }
     .col-6 {
-        max-width: 70%;
+        max-width: 80%;
     }
     .form-section {
         justify-content: center;
@@ -258,14 +242,5 @@ tr, td {
         position: unset;
     }
 }
-/* mobile devices - large*/
-@media only screen and (max-width: 768px) {
-    .signup-form{
-        max-width: 350px;
-    }
-}
 
-/* mobile devices - small*/
-@media only screen and (max-width: 600px) {
-    
-}
+
