@@ -9,7 +9,6 @@ body {
     font-weight: 300;
     color: #494E4F;
 }
-/* Home Page - Nav*/ 
 .navbar-brand {
     font-size: 1.0em;
 }
@@ -38,6 +37,7 @@ a {
 .hamburger {
     display: none;
 }
+/*
 .bar {
     display: block;
     width: 25px;
@@ -47,26 +47,14 @@ a {
     transition: all 0.3s ease-in-out;
     background-color: #1C77C3;
 }
+*/
 .nav-item {
     margin-left: 5rem;
 }
 .nav-link:hover{
-    color: #F39237;
+    color: #1C77C3;
 }
 @media only screen and (max-width: 768px) {
-    .navbar-nav {
-        position: fixed;
-        left: -100%;
-        top: 5rem;
-        flex-direction: column;
-        background-color: #f5f5f5;
-        width: 100%;
-        border-radius: 10px;
-        text-align: center;
-        transition: 0.3s;
-        box-shadow:
-        0 10px 27px rgba(0, 0, 0, 0.05);
-    }
     .navbar-nav.active {
         left: 0;
     }
