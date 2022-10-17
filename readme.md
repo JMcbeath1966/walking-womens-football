@@ -4,9 +4,9 @@ https://jmcbeath1966.github.io/walking-womens-football/
 
 ## Project Overview
 
-This will be the site for a newly opened, purpose built, 40+ Ladies Walking Football facility in an area of Kent, England. The facility is called Upchurch Hub.
+This project is a static website designed to attract 40+ years old women into walking football.
 
-The website site is desinged to be accessed and respsonsive to make it simple for potential players to access information and to learn about the game, the facility and benefits of walking football. 
+The website site is desinged to be accessed and respsonsive to make it simple for players to access information and to learn about the game and benefits of walking football. 
 
 ## User Experience  
 
@@ -18,8 +18,8 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
 
 * Returrning visitor goals
     * Easily find existing memeber updates!
-    * Latest results <!--Change Tab to reflect -fixtures/results-->
     * Forthcoming fixtures
+    * Latest results
 
 ## Design
 
@@ -27,16 +27,13 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
     * The main colors used are similar with the English FA (Football Assocation site) and are as follows:
 
     #1C77C3 French Blue (darkest blue) – Headings
-    #494E4F Davys Grey - Text
-    #E8E8E8 Hex Gray 91 - Alternate text color where needed
-    #1C77C3 Cerulean Crayola (lighter blue) 
-    #D63230 Permanent Geranium Lake (red)- Background for forms page
+    #E8E8E8 Hex Gray 91 - Alternate text color where needed 
     #F39237 Deep Saffron (amber) – Buttons  
-    #40BCD8 Maximum Blue – Reserve color
+    #Blue – Reserve color
 
  * Typography
 
-    * The font-family is: 'Lato', sans-serif; 'Oswald', sans-serif; 
+    * The font-family is: 'Lato', sans-serif; 'Oswald', sans-serif; - this is used as it is a modern, and popular font.
 
 * Imagery Design
 
@@ -44,32 +41,24 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
 
 ## Wireframes
 
-<!---link to wireframe reminder--->
-* Home Page - View Here
-* Mobile Page - View Here
-* Playing Page - View Here
-* Sign Up Page - View Here
-* Venue - View Here
-* Fixtures - View Here
+* Link to live Balsamic site: https://balsamiq.cloud/se8movd/pumvola
+* PDF included in the repository for this project - Final version walking-football-for-women.pdf.
+* Starting wireframe designs in wwf-women-wireframes.pdf
 
 ## Features
 
 * Responsive on all device sizes
-* Interactive elements 
+* Interactive elements
 
 ## Technologies Used
 
-1. Bootstrap 4.3.1: <!--check this version is correct-->
+1. Bootstrap 4.2.1:
 Bootstrap was used to assist with the responsiveness and styling of the website.
-2. Hover.css:
-Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-3. Font Awesome:
-Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-4. Git
+2. Git
 Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-5. GitHub:
+3. GitHub:
 GitHub is used to store the projects code after being pushed from Git.
-6. Balsamiq:
+4. Balsamiq:
 Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
