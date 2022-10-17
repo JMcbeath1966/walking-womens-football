@@ -71,10 +71,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ## Testing User Stories from User Experience (UX) Section
 <!--- review this whole section and original objective to ensure consistent testing user stories against original objectives - this needs much more work--->
 ### First Time Visitor Goals
-1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the sport and how to play it.
 
 
-    * Upon entering the site, users are automatically greeted with a clean and easily readable heading and navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text. <!--image under review> 
+    * Upon entering the site, users are automatically greeted with a clean and easily readable heading and navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text.
 
     * The main points are made in three sections underneath outlining the benefits of walking football. Under that is 6 clear sections on the venue and timings for the games/training.
 
@@ -101,12 +101,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Returning Visitor Goals
 
-1. As a Returning Visitor, I want to find the any changes.
+1. As a Returning Visitor, I want to find future fixtures and results easily.
 
     * These are clearly shown in the banner message <!--IS THIS RELEVANT WITHIN THE SIGN UP MESSAGE>
     * They will be directed to a page with another hero image and call to action.
 
-2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+2. As a Returning Visitor, I want to find the best way to use social media.
 
     * The navigation bar clearly highlights the "Contact Us" Page. <!--internal link to "Contact Us" page or change tab to sign up/contact us combined?-->
     * Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
