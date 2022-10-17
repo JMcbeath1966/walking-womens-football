@@ -166,7 +166,12 @@ h2 {
     border: 1px solid #fafafa;
     padding: 1em;
 }
-
+.join-button {
+    background-color: #F39237;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px whitesmoke;
+    color: whitesmoke;
+}
 /* mobile devices - large*/
 @media only screen and (max-width: 768px) {
     .signup-form{
