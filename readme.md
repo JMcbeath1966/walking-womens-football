@@ -78,96 +78,129 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the sport and how to play it.
 
 
-    * Upon entering the site, users are automatically greeted with a clean and easily readable heading and navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text.
+    * Upon entering the site, users are automatically greeted with a clean and easily readable heading and navigation bar to go to the page of their choice. Underneath there is a Hero Image with a sign up button, which when clicked is linked to the sign up page. The sign up page is also at in the navigation bar for users who want to access sign up immediately on opening the site.
 
-    * The main points are made in three sections underneath outlining the benefits of walking football. Under that is 6 clear sections on the venue and timings for the games/training.
+    * The main points are made in the 'benefits of' sections underneath the sign up button outlining the benefits of walking football. Under that is 6 clear sections on the venue and timings for the games/training. There is a fixtures button on the last section to allow quick access to the fixtures page.
 
-    * The user has two options, click the sign up button or the call to action buttons <!--wording and style not decided YET-->, both of which will lead to the same place, to enable sign up at the earliest opportunity.
-
-    * Social media icons are subtely placed to allow access to other media sites but not distract from the user experience of the website itself. Social media is at the bottom of the home page and all subsequent pages.
+    * Social media icons are subtely placed to allow access to other media sites but not distract from the user experience of the website itself. Social media is at the bottom of the home page and all subsequent pages. There is also a contact email and address under the icons, which links to the site organiser email if enquiries are made.
 
     
 
 2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
-
-    * The site has been designed to be fluid and never to entrap the user. At the top right of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.<!--Does the playing tab accurately describe the page! - Maybe GETTING STARTED would be better>
-    * At the middle of the first pages there is a redirection call <!--TO BE ADDED UNDER THE SOCIAL MEDIA ICONS--> to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-    * On the Sign Up Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+    * The site has been designed to be fluid and never to entrap the user. At the top right of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+    * At the middle of the first pages there is a redirection sign up call to action and social media icons to ensure the user always has somewhere to go and feels the user can always access to other areas of the site as they scroll to the bottom of the page.
 
 
-3. As a First Time Visitor, I want to look for  to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
+3. I want a First Time Visitor I want the menu bar to allow quick access to key information for sign up, playing the game and fixtures as results.
 
-    * Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-
+    * Therefore, as well as the information on the home page, there are three further pages with consistently styled and sized headers and footers to allow ease of navigation. 
+    * The navigation bar is provided as a 'hamburger' menu on smaller screen sizes which provides a dropdown of the menu options under the navbar brand.
     * The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-    * At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+    * At the bottom of the  section under the footer, with the an email for contact and an address for visitors
 
 ### Returning Visitor Goals
 
 1. As a Returning Visitor, I want to find future fixtures and results easily.
 
-    * These are clearly shown in the banner message <!--IS THIS RELEVANT WITHIN THE SIGN UP MESSAGE>
-    * They will be directed to a page with another hero image and call to action.
+    * From the home page the Returning Visitor is able to access the fixtures page from the home page navigation bar.
+    * The user can also click on the fixtures button in the section at the bottom of the home page, on the last section of the timings/age group section, just before the footer. The button will send them directly to the fixtures page
 
 2. As a Returning Visitor, I want to find the best way to use social media.
 
-    * The navigation bar clearly highlights the "Contact Us" Page. <!--internal link to "Contact Us" page or change tab to sign up/contact us combined?-->
-    * Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-    * The footer contains links to the clus social media as well as the organization's email.
-    * Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.<!--TO BE ADDED-->                        .
-
-3. As a Returning Visitor, I want to find out about community links so that I can join and interact with others in the community.
-
-    * In the Venue Page there are links (with brief organisational details) to help learn about the community groups available. 
-    * The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-    * Alternatively, the user can scroll to the bottom of the any of the pages to find the Facebook Group <!-- is this needed given the scope of the project-->redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
+    * The social media icons on the footer link straight to websites which will allow them to access the clubs details.
 
 ### Frequent User Goals
 
 1. As a Frequent User, I want to check to see if there are any newly added training sessions or matches
     * The user would already be comfortable with the website layout and can easily click the fixtures.
-<!---further thought required on the finish to frequent user goals--->
+
 
 ## Further Testing
 
-* Predominantly female friends & family were used to test the website and to provide user experience feedback. 
+* Predominantly female friends & family (4 girls and their friends) were used to test the website and to provide user experience feedback. My son who is also learning to code also provided feedback on the website. 
 * The website was tested on Mozilla, Google Chrome, Safari, Microsoft Edge, and Internet Explorer browsers
 * Testing was carried out thoroughly on external/internal links to ensure they all opened to a new tab.
 * The website was viewed on a variety of mobiles, laptop and desktops.
-
-## Known Bugs
+* My mentor also provided valued feedback on the project.
 
 None
 
 ## Deployment 
 
 ### GitHub Pages
+
 The project was deployed to GitHub Pages using the following steps...
-<!---add click here links where text is bold--->
-<!--Discuss with mentor-->
-1. Log in to GitHub and locate the **GitHub Repository**
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-Alternatively Click **Here** for a GIF demonstrating the process starting from Step 2.
+    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site **link** in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
-## Credits
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
 
 ### Code
 * HTML5 
 * CSS3 
-* Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+* Bootstrap4: Bootstrap Library used throughout the project to make site responsive using the Bootstrap Grid System.
 
 ### Content
-All content was written by the developer.
+
+* Hamburger menu code in index.html page is taken from https://mdbootstrap.com/
+
+* Form section in signup.html page is predominantly source code taken from the Love Running project in the Code Institure programme. 
+
+* CSS media queries at the end of the CSS stylesheet were supported by my mentor so are not solely my work.
 
 ### Media
-All Images were created by the developer.
+
+Images provided by:
+
+* Hero Image - Norfolk Football Association - https://www.norfolkfa.com/news/2022/apr/26/norfolk-county-fas-second-ever-womens-walking-football-festival
+
+* Background Image for sign up page - CNN - https://cdn.cnn.com/cnnnext/dam/assets/181218174204-walking-football-photo-tease.jpg
+
+* Video in playing.html page - YouTube - https://youtu.be/WSxTiscYTcA
 
 ### Acknowledgements
-My Mentor for continuous helpful feedback.
 
-Tutor support at Code Institute for their support.
+Thanks for my Code Institute Tutor (Rachel Furlong) and my mentor (Jubril Akolade) for their encouragment and advice.
+
+
+
