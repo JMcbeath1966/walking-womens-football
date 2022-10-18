@@ -12,11 +12,6 @@ body {
 .navbar-brand {
     font-size: 1.0em;
 }
-@media only screen and (min-width: 460px) {
-.navbar-brand {
-    font-size: 2em;
-    }
-}
 .navbar {
     color: #1C77C3;
     font-size: 1.5em;    
@@ -31,51 +26,16 @@ body {
 .nav-item {
     list-style: none;
 }
-a {
-    text-decoration: none;
-}
-.hamburger {
-    display: none;
-}
-/*
-.bar {
-    display: block;
-    width: 25px;
-    height: 3px;
-    margin: 5px auto;
-    -webkit-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-    background-color: #1C77C3;
-}
-*/
 .nav-item {
-    margin-left: 5rem;
+    margin-left: 3rem;
 }
-.nav-link:hover{
-    color: #1C77C3;
-}
-@media only screen and (max-width: 768px) {
-    .navbar-nav.active {
-        left: 0;
-    }
-    .nav-item {
-        margin: 1rem 0;
-    }
-    .hamburger {
-        display: block;
-        cursor: pointer;
-    }
-}
-/* Home Page - Img*/
 h1 {
     color: #1C77C3;
     margin-top: 1.5rem;
 }
-
 img {
     max-height: 40em;
 }
-/* Home Page - Benefits*/
 #groups {
     text-align: center;
 }
@@ -87,20 +47,11 @@ img {
     align-items: center;
     background-image: linear-gradient(90deg, #1C77C3, white, white, white, white, #1C77C3,)
 }
-
-@media only screen and (min-width: 425px) {
-    .callout {
-        background-image: linear-gradient(90deg, blue, #1C77C3, white, white, white, white, #1C77C3, blue);
-        }
-    }
-
 button {
     margin: 1em;
     padding: 1em;
     font-weight: bold;
 }
-/* Home Page - benefits*/
-
 .benefits {
     display: inline-block;
     flex-direction: row;
@@ -142,7 +93,6 @@ footer {
 .footer-address {
     font-size: 1.75em;
 }
-/* Sign Up form */
 .form-section {
     background-image: url(/images/ball-image-background.jpeg);
     height: 700px;
@@ -158,7 +108,7 @@ footer {
     height: 500px;
     max-width: 500px;
     position: absolute;
-    right: 14%;
+    right: 15%;
     padding: 30px;
     border-radius: 10%;
     box-shadow: 5px 5px 5px 5px white;
@@ -180,14 +130,6 @@ h2 {
     box-shadow: 5px 5px 5px 5px whitesmoke;
     color: whitesmoke;
 }
-/* mobile devices - large*/
-@media only screen and (max-width: 768px) {
-    .signup-form{
-        max-width: 350px;
-    }
-}
-
-/*playing.html rules section*/
 #playing {
     min-height: 700px;
     width: 100%;
@@ -199,17 +141,12 @@ h2 {
     display: inline-block;
     background-color: #F39237; 
     color: #F5F5F5;
-}
-p
-.considerations {
-    justify-content: left;
-}
-.rules-link {
     padding: 0.5em; 
     border-radius: 1.2em;
 }
-/* fixtures pagfe*/
-
+.considerations {
+    justify-content: left;
+}
 #fixtures {
     min-height: 700px;
     width: 100%;
@@ -226,9 +163,33 @@ form {
 tr, td {
     text-align: center;
 }
-
-/* tablet devices */
-
+@media only screen and (max-width: 768px) {
+    .signup-form{
+        max-width: 350px;
+    }
+}
+@media only screen and (min-width: 425px) {
+    .callout {
+        background-image: linear-gradient(90deg, blue, #1C77C3, white, white, white, white, #1C77C3, blue);
+        }
+    }
+@media only screen and (max-width: 768px) {
+    .navbar-nav.active {
+        left: 0;
+    }
+    .nav-item {
+        margin: 1rem 0;
+    }
+    .hamburger {
+        display: block;
+        cursor: pointer;
+    }
+}
+@media only screen and (min-width: 460px) {
+    .navbar-brand {
+        font-size: 2em;
+        }
+    }
 @media only screen and (max-width: 992px) {
     #fixtures {
         flex-direction: column;
