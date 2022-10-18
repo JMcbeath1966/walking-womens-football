@@ -188,6 +188,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 * CSS media queries at the end of the CSS stylesheet were supported by my mentor so are not solely my work.
 
+The remainder of the code is my own work!
+
 ### Media
 
 Images provided by:
