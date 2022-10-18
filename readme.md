@@ -26,10 +26,10 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
 * Color Scheme
     * The main colors used are similar with the English FA (Football Assocation site) and are as follows:
 
-    #1C77C3 French Blue (darkest blue) – Headings
-    #E8E8E8 Hex Gray 91 - Alternate text color where needed 
-    #F39237 Deep Saffron (amber) – Buttons  
-    #Blue – Reserve color
+    * #1C77C3 French Blue (darkest blue) – Headings
+    * #E8E8E8 Hex Gray 91 - Alternate text color where needed 
+    * #F39237 Deep Saffron (amber) – Buttons  
+    * #Blue – Reserve color
 
  * Typography
 
@@ -52,14 +52,18 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
 
 ## Technologies Used
 
-1. Bootstrap 4.2.1:
-Bootstrap was used to assist with the responsiveness and styling of the website.
-2. Git
-Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-3. GitHub:
-GitHub is used to store the projects code after being pushed from Git.
-4. Balsamiq:
-Balsamiq was used to create the wireframes during the design process.
+1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the Lato and Oswald fonts into the style.css file which is used on all pages throughout the project.
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
+    - Photoshop was used to create the logo, resizing images and editing photos for the website.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the during the design process. Live site: https://balsamiq.cloud/se8movd/pumvola
 
 ## Testing
 
