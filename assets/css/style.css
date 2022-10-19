@@ -115,7 +115,7 @@ footer {
     box-shadow: 5px 5px 5px 5px white;
 }
 h2 {
-    margin-bottom: 25px;
+    padding: 0.5em;
 }
 .text-input {
     background: #F5F5F5;
@@ -145,8 +145,13 @@ h2 {
     padding: 0.5em; 
     border-radius: 1.2em;
 }
-.considerations {
-    justify-content: left;
+.list { 
+    text-align: center;
+    list-style-position: inside;
+}
+.kit {
+    display: inline-block; 
+	text-align: left; 
 }
 #fixtures {
     min-height: 700px;
