@@ -182,11 +182,13 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
-* Hamburger menu code in index.html page is taken from https://mdbootstrap.com/
+* Hamburger menu code in index.html page is taken from https://mdbootstrap.com/ 
 
-* Form section in signup.html page is predominantly source code taken from the Love Running project in the Code Institure programme. 
+* Form section in signup.html page is predominantly source code taken from the Love Running project in the Code Institure programme.
 
-* CSS media queries at the end of the CSS stylesheet were supported by my mentor so are not solely my work.
+* Code snippet added from https://perishablepress.com/css-center-align-list-left-align-text/ that provides centering text for the div but aligning the bullet points to the left of an inline block.  
+
+* The last media queries at the end of the CSS stylesheet were supported by my mentor.
 
 The remainder of the code is my own work!
 
