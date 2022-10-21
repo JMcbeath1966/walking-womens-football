@@ -188,7 +188,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 * Code snippet added from https://perishablepress.com/css-center-align-list-left-align-text/ that provides centering text for the div but aligning the bullet points to the left of an inline block.  
 
-* The last media queries at the end of the CSS stylesheet were supported by my mentor.
+* Stack overflow was used to help provide a solution to changing the color of the navbar to match the color scheme of the webstie. I had struggled to find a solution and using stack overflow, it helped me realise I was working on a display element and therefore my CSS was not working as envisaged. My solution was to target the .navbar-light .navbar-toggler-icon image and amend the RGBA values to get the required color.
 
 The remainder of the code is my own work!
 

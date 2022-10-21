@@ -9,12 +9,25 @@ body {
     font-weight: 300;
     color: #494E4F;
 }
+.container-fluid {
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.row{
+    margin: 0;
+}
 .navbar-brand {
     font-size: 1.0em;
 }
 .navbar {
     color: #1C77C3;
     font-size: 1.5em;    
+}
+
+.active{
+    text-decoration: underline;
 }
 .nav-link {
     color:#1C77C3 !important;
@@ -204,7 +217,8 @@ tr, td {
         margin: 20px auto;
     }
     .col-6 {
-        max-width: 80%;
+            max-width: 90%;
+            margin: 0 auto;  
     }
     .form-section {
         justify-content: center;
