@@ -41,9 +41,8 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
 
 ## Wireframes
 
-* Link to live Balsamic site: https://balsamiq.cloud/se8movd/pumvola
-* PDF included in the repository for this project - Final version walking-football-for-women.pdf.
-* Starting wireframe designs in wwf-women-wireframes.pdf
+* Starting wireframe designs  - https://github.com/JMcbeath1966/walking-womens-football/blob/main/wwf-women-wireframes.pdf
+* Final version wireframe - https://github.com/JMcbeath1966/walking-womens-football/blob/main/www-women-wireframe.pdf
 
 ## Features
 
@@ -72,8 +71,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * W3C Markup Validator - Results
 * W3C CSS Validator - Results
 
-## Testing User Stories from User Experience (UX) Section
-<!--- review this whole section and original objective to ensure consistent testing user stories against original objectives - this needs much more work--->
 ### First Time Visitor Goals
 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the sport and how to play it.
 
@@ -115,7 +112,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 1. As a Frequent User, I want to check to see if there are any newly added training sessions or matches
     * The user would already be comfortable with the website layout and can easily click the fixtures.
 
-
+## Testing User Stories from User Experience (UX) Section
+<!--- review this whole section and original objective to ensure consistent testing user stories against original objectives - this needs much more work--->
 ## Further Testing
 
 * Predominantly female friends & family (4 girls and their friends) were used to test the website and to provide user experience feedback. My son who is also learning to code also provided feedback on the website. 
@@ -180,7 +178,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 * CSS3 
 * Bootstrap4: Bootstrap Library used throughout the project to make site responsive using the Bootstrap Grid System.
 
-### Content
+### Code Content
 
 * Hamburger menu code in index.html page is taken from https://mdbootstrap.com/ 
 
