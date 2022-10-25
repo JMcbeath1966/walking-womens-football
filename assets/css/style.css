@@ -179,6 +179,9 @@ form {
 .table-head {
     margin-top: 1.77em;
 }
+table {
+    margin-top: 1.5em;
+}
 tr, td {
     text-align: center;
 }

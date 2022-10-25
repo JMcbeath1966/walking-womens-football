@@ -178,7 +178,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 * CSS3 
 * Bootstrap4: Bootstrap Library used throughout the project to make site responsive using the Bootstrap Grid System.
 
-### Code Content
+### Content
 
 * Hamburger menu code in index.html page is taken from https://mdbootstrap.com/ 
 
@@ -187,6 +187,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 * Code snippet added from https://perishablepress.com/css-center-align-list-left-align-text/ that provides centering text for the div but aligning the bullet points to the left of an inline block.  
 
 * Stack overflow was used to help provide a solution to changing the color of the navbar to match the color scheme of the webstie. I had struggled to find a solution and using stack overflow, it helped me realise I was working on a display element and therefore my CSS was not working as envisaged. My solution was to target the .navbar-light .navbar-toggler-icon image and amend the RGBA values to get the required color.
+
+* Stack overflow was used to correct an issue caused by placing an h3 header inside a table. Once I understood the issue from the Stack overflow explanation is was simple to move the h3 above the table head to correct the problem.
 
 The remainder of the code is my own work!
 
