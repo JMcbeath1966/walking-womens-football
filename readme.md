@@ -68,8 +68,13 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-* W3C Markup Validator - Results
-* W3C CSS Validator - Results
+* W3C Markup Validator - Results - https://github.com/JMcbeath1966/walking-womens-football/tree/main/wwf-html%20validation-results
+    * Duplicate class error resolved easily by removing duplicates within the class element
+    * H3 error as it was within a table. H3 moved to the line above the start of the table tag to resolve the issue
+* W3C CSS Validator - Results - https://github.com/JMcbeath1966/walking-womens-football/tree/main/w3c-css-validator%20-results
+    * Missing semi colon from a linear gradient media query. Semi colon added to resolve issue
+* Lighthouse SEO - Results - https://github.com/JMcbeath1966/walking-womens-football/tree/main/lighthouse-report-viewer-files
+    * Report generally very good. Accessability, performance and best practice all 90% and above. No significant issues in the report
 
 ### First Time Visitor Goals
 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the sport and how to play it.
