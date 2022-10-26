@@ -11,7 +11,7 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
 ## User Experience  
 
 * First time visit goals
-    * Access information on the major benefits (physical, mental and social) of walking football at Upchurch Hub!
+    * Access information on the major benefits (physical, mental and social) of walking football
     * Details the facility and times for playing!
     * Navigate intuitively through the site to find key information
     * Sign up for sessions for one of three age groups.
