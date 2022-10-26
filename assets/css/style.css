@@ -108,7 +108,7 @@ footer {
     font-size: 1.6em;
 }
 .form-section {
-    background-image: url(/images/ball-image-background.jpeg);
+    background-image: url("../../images/ball-image-background.jpeg");
     height: 700px;
     background-position: center;
     background-repeat: no-repeat;
