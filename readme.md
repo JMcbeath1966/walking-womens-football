@@ -1,6 +1,8 @@
 # 40+ Ladies Walking Football
 
-https://jmcbeath1966.github.io/walking-womens-football/
+* Mock Up - https://github.com/JMcbeath1966/walking-womens-football/blob/main/images/all-devices-white.png
+
+* Live Preview - https://jmcbeath1966.github.io/walking-womens-football/
 
 ## Project Overview
 
@@ -117,8 +119,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 1. As a Frequent User, I want to check to see if there are any newly added training sessions or matches
     * The user would already be comfortable with the website layout and can easily click the fixtures.
 
-## Testing User Stories from User Experience (UX) Section
-<!--- review this whole section and original objective to ensure consistent testing user stories against original objectives - this needs much more work--->
 ## Further Testing
 
 * Predominantly female friends & family (4 girls and their friends) were used to test the website and to provide user experience feedback. My son who is also learning to code also provided feedback on the website. 
