@@ -69,7 +69,8 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-* Screenshots for all tests - https://github.com/JMcbeath1966/walking-womens-football/tree/main/validation-screenshots
+* Screenshots for all css and html tests - https://github.com/JMcbeath1966/walking-womens-football/tree/main/validation-screenshots
+* Screenshot for Lighthouse report - https://github.com/JMcbeath1966/walking-womens-football/blob/main/lighthouse-report-viewer-files/lighthouse-seo-report-screenshot.png
 * W3C Markup Validator -  Full Saved Result Files and Resolutions - https://github.com/JMcbeath1966/walking-womens-football/tree/main/wwf-html%20validation-results
     * Duplicate class error resolved easily by removing duplicates within the class element
     * H3 error as it was within a table. H3 moved to the line above the start of the table tag to resolve the issue
