@@ -17,11 +17,13 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
     * Details the facility and times for playing!
     * Navigate intuitively through the site to find key information
     * Sign up for sessions for one of three age groups.
+    * Access social media 
 
 * Returrning visitor goals
-    * Easily find existing memeber updates!
+    * Changes to session/venue details
     * Forthcoming fixtures
     * Latest results
+    * Access social media 
 
 ## Design
 
@@ -76,7 +78,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     * H3 error as it was within a table. H3 moved to the line above the start of the table tag to resolve the issue
 * W3C CSS Validator - Full Saved Result Files and Resolutions - [Here](https://github.com/JMcbeath1966/walking-womens-football/tree/main/0w3c-css-validator%20-results)
     * Missing semi colon from a linear gradient media query. Semi colon added to resolve issue
-* Lighthouse SEO - Full Saved Result Files and Resolutions - [Here](https://github.com/JMcbeath1966/walking-womens-football/tree/main/lighthouse-report-viewer-files)
+* Lighthouse SEO - Full Saved Result Files and Resolutions - [Here](https://github.com/JMcbeath1966/walking-womens-football/tree/main/lighthouse-report-viewer-files/lighthouse-seo-report-screenshot.png)
     * Accessability, performance and best practice all 90% and above.
 
 ### First Time Visitor Goals
