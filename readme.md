@@ -1,8 +1,8 @@
 # 40+ Ladies Walking Football
 
-* Mock Up - https://github.com/JMcbeath1966/walking-womens-football/blob/main/images/all-devices-white.png
+* Mock Up - [Here](https://github.com/JMcbeath1966/walking-womens-football/blob/main/images/all-devices-white.png)
 
-* Live Preview - https://jmcbeath1966.github.io/walking-womens-football/
+* Live Preview - [Here](https://jmcbeath1966.github.io/walking-womens-football/)
 
 ## Project Overview
 
@@ -43,8 +43,8 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
 
 ## Wireframes
 
-* Starting wireframe designs  - https://github.com/JMcbeath1966/walking-womens-football/blob/main/wwf-women-wireframes.pdf
-* Final version wireframe - https://github.com/JMcbeath1966/walking-womens-football/blob/main/www-women-wireframe.pdf
+* [Starting wireframe designs](https://github.com/JMcbeath1966/walking-womens-football/blob/main/wwf-women-wireframes.pdf)
+* [Final version wireframe](https://github.com/JMcbeath1966/walking-womens-football/blob/main/www-women-wireframe.pdf)
 
 ## Features
 
@@ -62,22 +62,22 @@ The website site is desinged to be accessed and respsonsive to make it simple fo
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
+    - Photoshop was used to resize images and editing photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the during the design process. Live site: https://balsamiq.cloud/se8movd/pumvola
+    - Balsamiq was used to create the during the design process. [Live Balsamic website](https://balsamiq.cloud/se8movd/pumvola)
 
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-* Screenshots for all css and html tests - https://github.com/JMcbeath1966/walking-womens-football/tree/main/validation-screenshots
-* Screenshot for Lighthouse report - https://github.com/JMcbeath1966/walking-womens-football/blob/main/lighthouse-report-viewer-files/lighthouse-seo-report-screenshot.png
-* W3C Markup Validator -  Full Saved Result Files and Resolutions - https://github.com/JMcbeath1966/walking-womens-football/tree/main/wwf-html%20validation-results
+* Screenshots for all css and html tests - [Here](https://github.com/JMcbeath1966/walking-womens-football/tree/main/validation-screenshots)
+* Screenshot for Lighthouse report - [Here](https://github.com/JMcbeath1966/walking-womens-football/blob/main/lighthouse-report-viewer-files/lighthouse-seo-report-screenshot.png)
+* W3C Markup Validator -  Full Saved Result Files and Resolutions -[Here](https://github.com/JMcbeath1966/walking-womens-football/tree/main/wwf-html%20validation-results)
     * Duplicate class error resolved easily by removing duplicates within the class element
     * H3 error as it was within a table. H3 moved to the line above the start of the table tag to resolve the issue
-* W3C CSS Validator - Full Saved Result Files and Resolutions - https://github.com/JMcbeath1966/walking-womens-football/tree/main/w3c-css-validator%20-results
+* W3C CSS Validator - Full Saved Result Files and Resolutions - [Here](https://github.com/JMcbeath1966/walking-womens-football/tree/main/0w3c-css-validator%20-results)
     * Missing semi colon from a linear gradient media query. Semi colon added to resolve issue
-* Lighthouse SEO - Full Saved Result Files and Resolutions - https://github.com/JMcbeath1966/walking-womens-football/tree/main/lighthouse-report-viewer-files
-    * Report generally good. Accessability, performance and best practice all 90% and above. No significant issues in the report
+* Lighthouse SEO - Full Saved Result Files and Resolutions - [Here](https://github.com/JMcbeath1966/walking-womens-football/tree/main/lighthouse-report-viewer-files)
+    * Accessability, performance and best practice all 90% and above.
 
 ### First Time Visitor Goals
 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the sport and how to play it.
@@ -186,27 +186,27 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
-* Hamburger menu code in index.html page is taken from https://mdbootstrap.com/ 
+* Hamburger menu code in index.html page is taken from [MDBootstrap](https://mdbootstrap.com/)
 
 * Form section in signup.html page is predominantly source code taken from the Love Running project in the Code Institure programme.
 
-* Code snippet added from https://perishablepress.com/css-center-align-list-left-align-text/ that provides centering text for the div but aligning the bullet points to the left of an inline block.  
+* Code snippet added from [Perishablepress.com](https://perishablepress.com/css-center-align-list-left-align-text/) that provides centering text for the div but aligning the bullet points to the left of an inline block.  
 
 * Stack overflow was used to help provide a solution to changing the color of the navbar to match the color scheme of the webstie. I had struggled to find a solution and using stack overflow, it helped me realise I was working on a display element and therefore my CSS was not working as envisaged. My solution was to target the .navbar-light .navbar-toggler-icon image and amend the RGBA values to get the required color.
 
-* Stack overflow was used to correct an issue caused by placing an h3 header inside a table. Once I understood the issue from the Stack overflow explanation is was simple to move the h3 above the table head to correct the problem.
+* Stack overflow was also used to correct an issue caused by placing an h3 header inside a table. Once I understood the issue from the Stack overflow explanation is was simple to move the h3 above the table head to correct the problem.
 
-The remainder of the code is my own work!
+The remainder of the code is my own work
 
 ### Media
 
 Images provided by:
 
-* Hero Image - Norfolk Football Association - https://www.norfolkfa.com/news/2022/apr/26/norfolk-county-fas-second-ever-womens-walking-football-festival
+* Hero Image - Norfolk Football Association - [Here](https://www.norfolkfa.com/news/2022/apr/26/norfolk-county-fas-second-ever-womens-walking-football-festival)
 
-* Background Image for sign up page - CNN - https://cdn.cnn.com/cnnnext/dam/assets/181218174204-walking-football-photo-tease.jpg
+* Background Image for sign up page - CNN - [Here](ttps://cdn.cnn.com/cnnnext/dam/assets/181218174204-walking-football-photo-tease.jpg)
 
-* Video in playing.html page - YouTube - https://youtu.be/WSxTiscYTcA
+* Video in playing html page - YouTube - [Here](https://youtu.be/WSxTiscYTcA)
 
 ### Acknowledgements
 
