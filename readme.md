@@ -199,6 +199,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 * Stack overflow was also used to correct an issue caused by placing an h3 header inside a table. Once I understood the issue from the Stack overflow explanation is was simple to move the h3 above the table head to correct the problem.
 
+* A sample readme.md from Code Insitute's GitHub was used to copy the deployment section and adapt some of the user goals/experience section - [Here](https://github.com/Code-Institute-Solutions/SampleREADME.git)
+
 The remainder of the code is my own work
 
 ### Media
