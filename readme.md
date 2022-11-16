@@ -2,7 +2,7 @@
 
 * [View the live project here](https://jmcbeath1966.github.io/walking-womens-football/)
 
-* Mock Up - ![Here](https://github.com/JMcbeath1966/walking-womens-football/blob/main/images/all-devices-white.png)
+* Mock Up Design ![Here](https://github.com/JMcbeath1966/walking-womens-football/blob/main/images/all-devices-white.png)
 
 ## Project Overview
 
