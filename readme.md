@@ -1,8 +1,8 @@
 # 40+ Ladies Walking Football
 
-* Mock Up - [Here](https://github.com/JMcbeath1966/walking-womens-football/blob/main/images/all-devices-white.png)
+* Mock Up - ![Here](https://github.com/JMcbeath1966/walking-womens-football/blob/main/images/all-devices-white.png)
 
-* Live Preview - [Here](https://jmcbeath1966.github.io/walking-womens-football/)
+* Live Preview - ![Here](https://jmcbeath1966.github.io/walking-womens-football/)
 
 ## Project Overview
 
