@@ -5,7 +5,7 @@
 * Mock Up Design ![Here](https://github.com/JMcbeath1966/walking-womens-football/blob/main/images/all-devices-white.png)
 
 ## Project Overview
-"
+
 This project is a static website designed to attract 40+ years old women into walking football.
 
 The website site is desinged to be accessed and respsonsive to make it simple for players to access information and to learn about the game and benefits of walking football. 
@@ -86,42 +86,42 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
     * Upon entering the site, users are automatically greeted with a clean and easily readable heading and navigation bar to go to the page of their choice. Underneath there is a Hero Image with a sign up button, which when clicked is linked to the sign up page. The sign up page is also at in the navigation bar for users who want to access sign up immediately on opening the site.
-    * USER EXPERIENCE - Screenshot showing the heading, navigation bar with sign up link and the hero image below it - [Here](wwf-uxui-experience-screenshots/index-top-section.png)
+    * USER EXPERIENCE - Screenshot showing the heading, navigation bar with sign up link and the hero image below it - ![Here](wwf-uxui-experience-screenshots/index-top-section.png)
 
     * The main points are made in the 'well-being' sections underneath. There are 6 clear sections on the venue and timings for the games/training. There is a fixtures button on the last section to allow quick access to the fixtures page.
-    * USER EXPERIENCE - screenshot showing a prominent header, with 3 column section on well-being benefits, followed by a callout section wiith link to sign up page. Underneath is the details for sessions with a link to the fixtures page in the lower right corner of the section - [Here](wwf-uxui-experience-screenshots/index-middle-section.png)
+    * USER EXPERIENCE - screenshot showing a prominent header, with 3 column section on well-being benefits, followed by a callout section wiith link to sign up page. Underneath is the details for sessions with a link to the fixtures page in the lower right corner of the section - ![Here](wwf-uxui-experience-screenshots/index-middle-section.png)
     * Social media icons are subtely placed to allow access to other media sites but not distract from the user experience of the website itself. Social media is at the bottom of the home page and all subsequent pages. There is also a contact email and address under the icons, which links to the site organiser email if enquiries are made.
-   * USER EXPERIENCE - screenshot showing with the footer with its social media icons to click on and contact details with a link to an email address - [Here](wwf-uxui-experience-screenshots/index-bottom-section.png)
+   * USER EXPERIENCE - screenshot showing with the footer with its social media icons to click on and contact details with a link to an email address - ![Here](wwf-uxui-experience-screenshots/index-bottom-section.png)
     
 
 2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
     * The site has been designed to be fluid and never to entrap the user. At the top right of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-    * USER EXPERIENCE - screenshot showing the links in the navigation on the Playing the Game page, to demonstrate the link clearly shows what page the user is on with an underline of the page they are on and the options to link to other pages - [Here](wwf-uxui-experience-screenshots/playing-top-section.png)
+    * USER EXPERIENCE - screenshot showing the links in the navigation on the Playing the Game page, to demonstrate the link clearly shows what page the user is on with an underline of the page they are on and the options to link to other pages - ![Here](wwf-uxui-experience-screenshots/playing-top-section.png)
 
 
 3. I want a First Time Visitor I want the menu bar to allow quick access to key information for sign up, playing the game and fixtures as results.
 
-    * Therefore, as well as the information on the home page, there are three further pages with consistently styled and sized headers and footers to allow ease of navigation. USER EXPERIENCE - All pages are provided - [Here](wwf-uxui-experience-screenshots)
-    * The navigation bar is provided as a 'hamburger' menu on smaller screen sizes which provides a dropdown of the menu options under the navbar brand. USER EXPERIENCE - [Here](wwf-uxui-experience-screenshots/mobile-hamburger-header.png)
+    * Therefore, as well as the information on the home page, there are three further pages with consistently styled and sized headers and footers to allow ease of navigation. USER EXPERIENCE - All pages are provided - ![Here](wwf-uxui-experience-screenshots)
+    * The navigation bar is provided as a 'hamburger' menu on smaller screen sizes which provides a dropdown of the menu options under the navbar brand. USER EXPERIENCE - ![Here](wwf-uxui-experience-screenshots/mobile-hamburger-header.png)
     * The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-    * At the bottom of the  section under the footer, with the an email for contact and an address for visitors. USER EXPERIENCE - [Here](wwf-uxui-experience-screenshots/signup-bottom-section.png)
+    * At the bottom of the  section under the footer, with the an email for contact and an address for visitors. USER EXPERIENCE - ![Here](wwf-uxui-experience-screenshots/signup-bottom-section.png)
 
 ### Returning Visitor Goals
 
 1. As a Returning Visitor, I want to find future fixtures and results easily.
 
-    * From the home page the Returning Visitor is able to access the fixtures page from the home page navigation bar. USER EXPERIENCE - [Here](wwf-uxui-experience-screenshots/index-top-section.png)
-    * The user can also click on the fixtures button in the section at the bottom of the home page, on the last section of the timings/age group section, just before the footer. The button will send them directly to the fixtures page. USER EXPERIENCE - [Here](wwf-uxui-experience-screenshots/index-middle-section.png)
+    * From the home page the Returning Visitor is able to access the fixtures page from the home page navigation bar. USER EXPERIENCE - ![Here](wwf-uxui-experience-screenshots/index-top-section.png)
+    * The user can also click on the fixtures button in the section at the bottom of the home page, on the last section of the timings/age group section, just before the footer. The button will send them directly to the fixtures page. USER EXPERIENCE - ![Here](wwf-uxui-experience-screenshots/index-middle-section.png)
 
 2. As a Returning Visitor, I want to find the best way to use social media.
 
-    * The social media icons on the footer link straight to websites which will allow them to access the clubs details.USER EXPERIENCE - [Here](wwf-uxui-experience-screenshots/playing-bottom-section.png)
+    * The social media icons on the footer link straight to websites which will allow them to access the clubs details.USER EXPERIENCE - ![Here](wwf-uxui-experience-screenshots/playing-bottom-section.png)
 
 ### Frequent User Goals
 
 1. As a Frequent User, I want to check to see if there are any newly added training sessions or matches
-    * The user would already be comfortable with the website layout and can easily click the fixtures. USER EXPERIENCE - [Here](wwf-uxui-experience-screenshots/index-bottom-section.png)
+    * The user would already be comfortable with the website layout and can easily click the fixtures. USER EXPERIENCE - ![Here](wwf-uxui-experience-screenshots/index-bottom-section.png)
 
 ## Further Testing
 
